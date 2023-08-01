@@ -25,4 +25,4 @@ This will start the program and first ask for your name. After that, you can cho
 
 Python 3.x is required to run this project.
 
-Enjoy managing your tasks in a fun and efficient way!
+## Enjoy managing your tasks in a fun and efficient way!
