@@ -2,9 +2,7 @@
 
 A Python command-line project that manages a todo list. Personalized and user-friendly, it's a simple and efficient way to manage your tasks.
 
-## Description
-
-The Todo List Manager allows you to:
+## The Todo List Manager allows you to:
 
 1. Add tasks, with details including task name, priority level (High/Medium/Low), due date, and category (Work/Personal/School etc.).
 2. View all tasks, along with their details and status (completed or not).
